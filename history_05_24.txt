@@ -1,0 +1,8 @@
+   0 history
+   1 mkdir -p /home/user5/task5 touch /home/user5/task5/file5.txt 
+   2 ls
+   3 tree /home/
+   4 mkdir -p /home/user5/task5 && touch /home/user5/task5/file5.txt 
+   5 mkdir -p /home/user6/task6/ivan/123/1234/12345
+   6 history
+   7 history > history_05_24.txt
